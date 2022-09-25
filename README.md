@@ -1,5 +1,20 @@
 # ruby\_parts
 
+## CL::RFind
+
+### Example
+
+```
+git clone https://github.com/LightningDAISY/ruby\_parts.git
+bin/rfind -p ~/Documents/ -e txt [Pp]assword
+```
+
+### Concept
+
+mdfindの自分用です。
+実行オプション等は -h を参照してください。
+
+
 ## CL::Parser
 
 ### Example
@@ -27,3 +42,5 @@ result
 6. クオートで括ったコマンドをそのまま返します。
 7. つまり "this is a pen" をそのまま返します。
 8. usageは各自で用意してください
+
+
